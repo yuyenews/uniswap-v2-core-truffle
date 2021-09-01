@@ -5,6 +5,9 @@
   "directories": {
     "test": "test"
   },
+  "publishConfig": {
+    "access": "public"
+  },
   "homepage": "https://uniswap.org",
   "repository": {
     "url": "https://github.com/yuyenews/uniswap-v2-core-truffle",
