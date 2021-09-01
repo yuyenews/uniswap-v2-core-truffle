@@ -7,11 +7,11 @@
   },
   "homepage": "https://uniswap.org",
   "repository": {
-    "url": "https://github.com/yuyenews/uniswap-lib-truffle",
+    "url": "https://github.com/yuyenews/uniswap-v2-core-truffle",
     "type": "git"
   },
   "bugs": {
-    "url": "https://github.com/yuyenews/uniswap-lib-truffle/issues"
+    "url": "https://github.com/yuyenews/uniswap-v2-core-truffle/issues"
   },
   "engines": {
     "node": ">=10"
@@ -23,7 +23,7 @@
   "license": "GPL-3.0-or-later",
   "keywords": [
     "uniswap",
-    "uniswap-lib"
+    "uniswap-v2-core"
   ],
   "description": "🎛 Core contracts for the UniswapV2 protocol"
 }
